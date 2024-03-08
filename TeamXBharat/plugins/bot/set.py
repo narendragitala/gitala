@@ -59,11 +59,11 @@ async def gib_repo(client, CallbackQuery, _):
             [
                 [
                     InlineKeyboardButton(
-                        text="ᴏᴡɴᴇʀ", url="https://t.me/TheChampu"
+                        text="ᴏᴡɴᴇʀ", url="https://t.me/MR_NARU"
                     ),
                     
                     InlineKeyboardButton(
-                        text="ʀᴇᴘᴏ", url="https://github.com/TheChampu/MusicXBharat"
+                        text="ʀᴇᴘᴏ", url="https://github.com/gitalanarendra/gitala"
                     )
                 ],
                 [
@@ -87,26 +87,26 @@ async def support(client, CallbackQuery, _):
             [
                 [
                     InlineKeyboardButton(
-                        text="ꜱʜɪᴠᴀɴꜱʜᴜ", url="https://t.me/TheShivanshu"
+                        text="ɴᴀʀᴜᴊᴀᴀᴛ", url="https://t.me/ALL_ABOUT_NARU"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="ᴛʜᴇ 𝗖𝗛𝗔𝗠𝗣𝗨 ˢᵗᵒʳᵉ", url="https://t.me/TheChampuStore"
+                        text="𝗦𝗛𝗔𝗬𝗔𝗥𝗜", url="https://t.me/BROKENSHAYRI1"
                     ),
 
                     InlineKeyboardButton(
-                        text="ꜰᴜɴɴʏ", url="https://t.me/ll_Champu_ll"
+                        text="ꜰᴜɴɴʏ", url="https://SHAYRIGALIBKI"
                     ),
                     
                 ],
                 [
                     InlineKeyboardButton(
-                        text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/TheChampu"
+                        text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/MR_NARU"
                     ),
 
                     InlineKeyboardButton(
-                        text="ᴄʜᴀᴛᴛɪɴɢ", url="https://t.me/chatting_club01"
+                        text="💕👁️😜😘", url="https://t.me/brokenshayri1"
                     ),
                     
                 ],
