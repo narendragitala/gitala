@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","itsMeShivanshu")
+OWNER_USERNAME = getenv("OWNER_USERNAME","mr_naru")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "TheChampuBot")
 # Don't Add style font 
@@ -31,7 +31,7 @@ SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION_LIMIT", "6969"))
 LOGGER_ID = int(getenv("LOGGER_ID", ))
 
 # Get this value from  on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 6399386263))
+OWNER_ID = int(getenv("OWNER_ID", 5473771943))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -41,15 +41,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TheChampu/MusicXBharat",
+    "https://github.com/narendragitala/gitala",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Champu")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", ""
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TheChampuStore")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Chatting_Club01")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BROKENSHAYRI1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/SHAYRIGALIBKI")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,10 +87,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/198796f3ccc75371ab627.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/198796f3ccc75371ab627.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/f16ec12ab36582b3902fb.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/d0afbc0637f8fa3a95587.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/c97eab3ee44c7fef1d7e4.jpg"
