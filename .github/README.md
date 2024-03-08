@@ -1,5 +1,5 @@
 <h2 align="center">
-    「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
+    「𝗡𝗔𝗥𝗨 𝗝𝗔𝗔𝗧」</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/84870d6d89b893e59c5f0.jpg">
@@ -115,11 +115,11 @@ sudo pkill -9 python3
 
 
 <h3 align="center">
-    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+    ─「 🖤narujaat🖤 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheChampu"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/mr_naru"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
